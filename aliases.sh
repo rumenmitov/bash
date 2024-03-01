@@ -1,0 +1,1 @@
+alias fast='fast.sh'
